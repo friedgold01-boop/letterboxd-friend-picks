@@ -1,0 +1,1 @@
+# letterboxd-friend-picks
